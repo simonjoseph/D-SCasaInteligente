@@ -1119,7 +1119,7 @@ header .video-container video{
     overflow: hidden;
     position: relative;
     z-index: 1;
-    background-image: url('./img/banner.jpg');
+    background-image: url('../img/banner.jpg');
     background-position: center top;
     background-size: cover;
     background-attachment: fixed;
